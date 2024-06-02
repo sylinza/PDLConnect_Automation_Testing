@@ -163,5 +163,7 @@ public class Hooks extends CommonMethods {
 	 * 
 	 * }
 	 */
+	
+	int x=10; //just for testing
 
 }
