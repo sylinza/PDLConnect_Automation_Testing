@@ -1266,3 +1266,118 @@ java.net.SocketException: Connection reset
 [INFO ] 2024-06-02 16:11:30.387 [main] Hooks - ------------------------------------------------------------------------------------------------------
 [INFO ] 2024-06-02 16:11:30.389 [main] Hooks - running DEF tag Status - PASSED
 [INFO ] 2024-06-02 16:11:30.389 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-25 18:16:56.370 [main] Hooks - ================================================================
+[INFO ] 2025-02-25 18:16:56.383 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2025-02-25 18:16:56.383 [main] Hooks - =================================================================
+[INFO ] 2025-02-25 18:16:56.394 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-25 18:16:58.863 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/register
+[INFO ] 2025-02-25 18:16:58.863 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-25 18:16:58.879 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-25 18:16:58.879 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-25 18:16:58.907 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-25 18:16:58.921 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 18:16:58.921 [main] StepNameListener - Executing step: I want to write a step with precondition
+[INFO ] 2025-02-25 18:16:58.922 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 18:16:58.922 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2025-02-25 18:16:59.229 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 18:16:59.230 [main] StepNameListener - Executing step: some other precondition
+[INFO ] 2025-02-25 18:16:59.230 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 18:16:59.233 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2025-02-25 18:16:59.397 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-25 18:16:59.653 [main] Hooks - Driver Closed
+[INFO ] 2025-02-25 18:16:59.671 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-25 18:16:59.678 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2025-02-25 18:16:59.679 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[WARN ] 2025-02-25 18:17:00.753 [main] FileSystemFontProvider - New fonts found, font cache will be re-built
+[WARN ] 2025-02-25 18:17:00.753 [main] FileSystemFontProvider - Building on-disk font cache, this may take a while
+[WARN ] 2025-02-25 18:17:01.736 [main] FileSystemFontProvider - Finished building on-disk font cache, found 228 fonts
+[INFO ] 2025-02-25 23:21:32.406 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.411 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-25 23:21:32.411 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.421 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.421 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-25 23:21:32.422 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.434 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.434 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-25 23:21:32.434 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.442 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.443 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-25 23:21:32.443 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.446 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.446 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-25 23:21:32.447 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.451 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.452 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-25 23:21:32.453 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.460 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.461 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-25 23:21:32.461 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.481 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.483 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-25 23:21:32.487 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.496 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.496 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-25 23:21:32.497 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.501 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.502 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-25 23:21:32.504 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.507 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.507 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-25 23:21:32.507 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:21:32.512 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:21:32.512 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-25 23:21:32.512 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.203 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.207 [main] StepNameListener - Executing step: Navigate to the registration page
+[INFO ] 2025-02-25 23:25:36.208 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.216 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.216 [main] StepNameListener - Executing step: Click on the link
+[INFO ] 2025-02-25 23:25:36.217 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.223 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.224 [main] StepNameListener - Executing step: The link should redirect the user to the registration web page
+[INFO ] 2025-02-25 23:25:36.224 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.227 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.228 [main] StepNameListener - Executing step: All the mandatory fields should be indicated with the red asterisk sign
+[INFO ] 2025-02-25 23:25:36.228 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.234 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.234 [main] StepNameListener - Executing step: Click all the required fields to make sure its responsive
+[INFO ] 2025-02-25 23:25:36.234 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.236 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.236 [main] StepNameListener - Executing step: Click on email field and insert "teamaqC35@gmail.com"
+[INFO ] 2025-02-25 23:25:36.236 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.238 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.238 [main] StepNameListener - Executing step: Click on password field and insert "teamC1234@"
+[INFO ] 2025-02-25 23:25:36.238 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.247 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.247 [main] StepNameListener - Executing step: A text should be displayed if the user has an existing account If you already have an account with us,please login at the login page and a link to the login page
+[INFO ] 2025-02-25 23:25:36.247 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:25:36.249 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:25:36.250 [main] StepNameListener - Executing step: Click on the attached link and it redirect them to the login page
+[INFO ] 2025-02-25 23:25:36.250 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.304 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.309 [main] StepNameListener - Executing step: Navigate to the registration page
+[INFO ] 2025-02-25 23:53:23.309 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.316 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.316 [main] StepNameListener - Executing step: Click on the link
+[INFO ] 2025-02-25 23:53:23.316 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.325 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.325 [main] StepNameListener - Executing step: The link should redirect the user to the registration web page
+[INFO ] 2025-02-25 23:53:23.325 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.329 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.329 [main] StepNameListener - Executing step: All the mandatory fields should be indicated with the red asterisk sign
+[INFO ] 2025-02-25 23:53:23.330 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.334 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.334 [main] StepNameListener - Executing step: Click all the required fields to make sure its responsive
+[INFO ] 2025-02-25 23:53:23.335 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.338 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.339 [main] StepNameListener - Executing step: Click on email field and insert "teamaqC35@gmail.com"
+[INFO ] 2025-02-25 23:53:23.339 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.342 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.342 [main] StepNameListener - Executing step: Click on password field and insert "teamC1234@"
+[INFO ] 2025-02-25 23:53:23.342 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.348 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.348 [main] StepNameListener - Executing step: A text should be displayed if the user has an existing account If you already have an account with us,please login at the login page and a link to the login page
+[INFO ] 2025-02-25 23:53:23.348 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 23:53:23.355 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 23:53:23.355 [main] StepNameListener - Executing step: Click on the attached link and it redirect them to the login page
+[INFO ] 2025-02-25 23:53:23.356 [main] StepNameListener - ---------------------------------------------------------------------
