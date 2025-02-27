@@ -1266,3 +1266,695 @@ java.net.SocketException: Connection reset
 [INFO ] 2024-06-02 16:11:30.387 [main] Hooks - ------------------------------------------------------------------------------------------------------
 [INFO ] 2024-06-02 16:11:30.389 [main] Hooks - running DEF tag Status - PASSED
 [INFO ] 2024-06-02 16:11:30.389 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.758 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.771 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-25 13:46:07.772 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.796 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.796 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-25 13:46:07.796 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.806 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.806 [main] StepNameListener - Executing step: Click on the "Login" option from the homepage or header menu
+[INFO ] 2025-02-25 13:46:07.807 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.813 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.814 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-25 13:46:07.814 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.820 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.848 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-25 13:46:07.850 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.862 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.863 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-25 13:46:07.864 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.872 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.872 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-25 13:46:07.873 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.880 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.880 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-25 13:46:07.881 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.887 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.888 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-25 13:46:07.889 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.896 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.897 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-25 13:46:07.897 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.904 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.905 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-25 13:46:07.905 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 13:46:07.912 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:07.912 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-25 13:46:07.913 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 13:46:10.674 [main] FileSystemFontProvider - New fonts found, font cache will be re-built
+[WARN ] 2025-02-25 13:46:10.675 [main] FileSystemFontProvider - Building on-disk font cache, this may take a while
+[WARN ] 2025-02-25 13:46:16.383 [main] FileSystemFontProvider - Finished building on-disk font cache, found 377 fonts
+[INFO ] 2025-02-25 20:15:05.429 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.443 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-25 20:15:05.443 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.453 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.454 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-25 20:15:05.454 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.463 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.463 [main] StepNameListener - Executing step: Click on the "Login" option from the homepage or header menu
+[INFO ] 2025-02-25 20:15:05.463 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.470 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.470 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-25 20:15:05.471 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.477 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.478 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-25 20:15:05.478 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.487 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.487 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-25 20:15:05.488 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.494 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.495 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-25 20:15:05.495 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.501 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.502 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-25 20:15:05.502 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.508 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.509 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-25 20:15:05.509 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.515 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.515 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-25 20:15:05.515 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.521 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.521 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-25 20:15:05.522 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 20:15:05.527 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 20:15:05.528 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-25 20:15:05.528 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:04:06.629 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:04:06.641 [main] StepNameListener - Executing step: Navigate to the "Your Store" website
+[INFO ] 2025-02-25 21:04:06.642 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:04:06.663 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:04:06.663 [main] StepNameListener - Executing step: Click on the "Login" option from the homepage or header menu
+[INFO ] 2025-02-25 21:04:06.664 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:04:06.674 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:04:06.675 [main] StepNameListener - Executing step: Confirm the "Returning Customer" section is present on the login page
+[INFO ] 2025-02-25 21:04:06.676 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:04:06.683 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:04:06.684 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-25 21:04:06.684 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:04:06.689 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:04:06.690 [main] StepNameListener - Executing step: Click the "Login" button
+[INFO ] 2025-02-25 21:04:06.690 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:04:06.694 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:04:06.695 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-25 21:04:06.695 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:12:08.075 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:12:08.087 [main] StepNameListener - Executing step: Navigate to the "Your Store" website
+[INFO ] 2025-02-25 21:12:08.087 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:12:08.098 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:12:08.099 [main] StepNameListener - Executing step: Click on the "Login" option from the homepage or header menu
+[INFO ] 2025-02-25 21:12:08.099 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:12:08.107 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:12:08.107 [main] StepNameListener - Executing step: Confirm the "Returning Customer" section is present on the login page
+[INFO ] 2025-02-25 21:12:08.108 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:12:08.114 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:12:08.114 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-25 21:12:08.115 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:12:08.122 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:12:08.122 [main] StepNameListener - Executing step: Click the "Login" button
+[INFO ] 2025-02-25 21:12:08.123 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:12:08.127 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:12:08.128 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-25 21:12:08.128 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.787 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.801 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-25 21:18:30.801 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.810 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.811 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-25 21:18:30.811 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.818 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.819 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-25 21:18:30.819 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.834 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.835 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-25 21:18:30.835 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.842 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.842 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-25 21:18:30.843 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.849 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.849 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-25 21:18:30.849 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.853 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.854 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-25 21:18:30.855 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.860 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.860 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-25 21:18:30.860 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.866 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.866 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-25 21:18:30.867 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.872 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.872 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-25 21:18:30.873 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.878 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.878 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-25 21:18:30.878 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:18:30.884 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:18:30.884 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-25 21:18:30.885 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:21:47.363 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:21:47.375 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-25 21:21:47.376 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:21:47.459 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:21:47.460 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-25 21:21:47.460 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:21:47.467 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:21:47.468 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-25 21:21:47.469 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:21:47.486 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:21:47.487 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-25 21:21:47.487 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:21:47.494 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:21:47.495 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-25 21:21:47.495 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:21:47.500 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:21:47.501 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-25 21:21:47.501 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:26:33.148 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:26:33.160 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-25 21:26:33.161 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:26:33.172 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:26:33.173 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-25 21:26:33.173 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:26:33.181 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:26:33.182 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-25 21:26:33.182 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:26:33.190 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:26:33.190 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-25 21:26:33.190 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:26:33.196 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:26:33.196 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-25 21:26:33.197 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-25 21:26:33.202 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-25 21:26:33.203 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-25 21:26:33.203 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.665 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.681 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 00:19:41.682 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.691 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.691 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 00:19:41.691 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.697 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.698 [main] StepNameListener - Executing step: Verify the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 00:19:41.698 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.716 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.716 [main] StepNameListener - Executing step: Enter an invalid email or incorrect password
+[INFO ] 2025-02-26 00:19:41.717 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.725 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.726 [main] StepNameListener - Executing step: Click the "Login" button
+[INFO ] 2025-02-26 00:19:41.726 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.731 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.732 [main] StepNameListener - Executing step: Verify the error message appears in red below the login form
+[INFO ] 2025-02-26 00:19:41.732 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:19:41.737 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:19:41.737 [main] StepNameListener - Executing step: Confirm the email and password fields remain populated
+[INFO ] 2025-02-26 00:19:41.737 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.167 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.185 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 00:31:14.185 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.196 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.197 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 00:31:14.197 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.204 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.204 [main] StepNameListener - Executing step: Verify the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 00:31:14.205 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.214 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.214 [main] StepNameListener - Executing step: Enter an invalid email or incorrect password
+[INFO ] 2025-02-26 00:31:14.215 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.221 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.222 [main] StepNameListener - Executing step: Click the "Login" button
+[INFO ] 2025-02-26 00:31:14.222 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.227 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.227 [main] StepNameListener - Executing step: Verify the error message appears in red below the login form
+[INFO ] 2025-02-26 00:31:14.228 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:31:14.233 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:31:14.233 [main] StepNameListener - Executing step: Confirm the email and password fields remain populated
+[INFO ] 2025-02-26 00:31:14.234 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.894 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.906 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 00:32:11.907 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.916 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.917 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 00:32:11.917 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.923 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.924 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 00:32:11.924 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.941 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.942 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 00:32:11.942 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.948 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.949 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 00:32:11.949 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.954 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.954 [main] StepNameListener - Executing step: Click on the ""Continue"" button.	"
+[INFO ] 2025-02-26 00:32:11.955 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.961 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.962 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 00:32:11.962 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.966 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.966 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 00:32:11.966 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:32:11.970 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:32:11.971 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 00:32:11.971 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.284 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.298 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 00:36:10.299 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.312 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.312 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 00:36:10.313 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.320 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.321 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 00:36:10.321 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.331 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.331 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 00:36:10.332 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.337 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.338 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 00:36:10.338 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.344 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.345 [main] StepNameListener - Executing step: Click on the ""Continue"" button.	"
+[INFO ] 2025-02-26 00:36:10.345 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.352 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.352 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 00:36:10.353 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.358 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.358 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 00:36:10.358 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 00:36:10.366 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 00:36:10.367 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 00:36:10.368 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.666 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.683 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:09:40.684 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.697 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.698 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:09:40.698 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.693 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.710 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.711 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:09:40.711 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.713 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:09:40.713 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.720 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.720 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 17:09:40.721 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.728 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.729 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:09:40.729 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.729 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.730 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 17:09:40.730 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.737 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.738 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.738 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[WARN ] 2025-02-26 17:09:40.739 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:09:40.739 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.739 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.747 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.748 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 17:09:40.749 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.759 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.759 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 17:09:40.760 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.762 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.763 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 17:09:40.764 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.767 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.767 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-26 17:09:40.768 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.773 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.773 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 17:09:40.774 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.780 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.781 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 17:09:40.782 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.789 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.790 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 17:09:40.790 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.798 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.799 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 17:09:40.799 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:09:40.806 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:09:40.806 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 17:09:40.807 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.517 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.533 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:13:35.534 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.549 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.549 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:13:35.550 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.559 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.560 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:13:35.560 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.571 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.571 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 17:13:35.572 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.578 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.579 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 17:13:35.580 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.587 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.588 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-26 17:13:35.588 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.608 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.609 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 17:13:35.610 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.618 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.618 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 17:13:35.619 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:13:35.624 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:13:35.625 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 17:13:35.625 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.280 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.290 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:17:28.291 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.300 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.300 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:17:28.300 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.306 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.306 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:17:28.307 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.313 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.313 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 17:17:28.314 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.319 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.319 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 17:17:28.319 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.324 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.325 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-26 17:17:28.325 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.331 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.332 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 17:17:28.332 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.336 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.337 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 17:17:28.337 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:17:28.342 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:17:28.342 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 17:17:28.342 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.008 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.021 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:37:44.021 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.032 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.033 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:37:44.033 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.040 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.040 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:37:44.041 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.048 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.048 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 17:37:44.048 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.053 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.053 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 17:37:44.053 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.058 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.059 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-26 17:37:44.059 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.064 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.065 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 17:37:44.065 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.069 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.069 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 17:37:44.070 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:37:44.075 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:37:44.076 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 17:37:44.076 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:38:47.672 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:38:47.685 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:38:47.686 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:38:47.698 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:38:47.698 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:38:47.699 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:38:47.708 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:38:47.708 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 17:38:47.709 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:38:47.717 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:38:47.718 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:38:47.719 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:38:47.727 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:38:47.727 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 17:38:47.728 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:38:47.734 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:38:47.735 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 17:38:47.736 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:41:29.292 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:41:29.305 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:41:29.306 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:41:29.319 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:41:29.320 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:41:29.321 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:41:29.329 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:41:29.329 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 17:41:29.330 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:41:29.339 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:41:29.340 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:41:29.340 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:41:29.347 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:41:29.347 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 17:41:29.348 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:41:29.355 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:41:29.355 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 17:41:29.356 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:46:19.632 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:46:19.648 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:46:19.648 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:46:19.660 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:46:19.660 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:46:19.661 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:46:19.670 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:46:19.671 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 17:46:19.672 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:46:19.680 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:46:19.680 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:46:19.680 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:46:19.687 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:46:19.688 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 17:46:19.688 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:46:19.694 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:46:19.695 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 17:46:19.696 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:49.734 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 17:47:49.745 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 17:47:49.745 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 17:47:49.764 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 17:47:52.147 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 17:47:52.148 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 17:47:52.220 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 17:47:52.221 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 17:47:52.325 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 17:47:52.342 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:47:52.342 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:47:52.343 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:53.557 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:47:53.558 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:47:53.558 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:53.566 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:47:53.567 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 17:47:53.567 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:53.573 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:47:53.574 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:47:53.574 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:53.578 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:47:53.579 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 17:47:53.579 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:53.583 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:47:53.583 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 17:47:53.584 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:53.622 [main] Hooks - CLosing the Driver
+[WARN ] 2025-02-26 17:47:53.892 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ] 2025-02-26 17:47:54.199 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 17:47:54.203 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 17:47:54.208 [main] Hooks - 31_ Validate successful Login Status - FAILED
+[INFO ] 2025-02-26 17:47:54.208 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:32.408 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 17:48:32.423 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 17:48:32.423 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 17:48:32.445 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 17:48:34.719 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 17:48:34.719 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 17:48:34.747 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 17:48:34.748 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 17:48:34.785 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 17:48:34.802 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:48:34.803 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 17:48:34.804 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:36.020 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:48:36.021 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 17:48:36.021 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:36.264 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:48:36.265 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 17:48:36.265 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:36.510 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:48:36.510 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 17:48:36.511 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:36.732 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:48:36.733 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 17:48:36.733 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:36.966 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 17:48:36.966 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 17:48:36.967 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:37.231 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 17:48:37.634 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 17:48:37.638 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 17:48:37.642 [main] Hooks - 31_ Validate successful Login Status - PASSED
+[INFO ] 2025-02-26 17:48:37.642 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:15.551 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 18:48:15.561 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 18:48:15.562 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 18:48:15.582 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 18:48:18.163 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 18:48:18.164 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 18:48:18.199 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 18:48:18.199 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 18:48:18.239 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 18:48:18.256 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:48:18.256 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 18:48:18.257 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:19.236 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:48:19.236 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 18:48:19.236 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:19.510 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:48:19.511 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 18:48:19.511 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:19.754 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:48:19.754 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 18:48:19.755 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:19.989 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:48:19.989 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 18:48:19.990 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:20.221 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:48:20.222 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 18:48:20.222 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:20.520 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 18:48:21.835 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 18:48:21.838 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 18:48:21.842 [main] Hooks - 31_ Validate successful Login Status - PASSED
+[INFO ] 2025-02-26 18:48:21.842 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:26.596 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 18:50:26.608 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 18:50:26.609 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 18:50:26.630 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 18:50:29.194 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 18:50:29.195 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 18:50:29.225 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 18:50:29.226 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 18:50:29.264 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 18:50:29.279 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:50:29.280 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 18:50:29.280 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.246 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:50:30.247 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 18:50:30.247 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.254 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:50:30.254 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 18:50:30.254 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.259 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:50:30.260 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 18:50:30.260 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.264 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:50:30.264 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 18:50:30.265 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.268 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:50:30.269 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 18:50:30.269 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.303 [main] Hooks - CLosing the Driver
+[WARN ] 2025-02-26 18:50:30.470 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ] 2025-02-26 18:50:30.709 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 18:50:30.713 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 18:50:30.718 [main] Hooks - 31_ Validate successful Login Status - FAILED
+[INFO ] 2025-02-26 18:50:30.719 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:08.195 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 18:53:08.204 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 18:53:08.205 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 18:53:08.226 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 18:53:10.854 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 18:53:10.854 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 18:53:10.883 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 18:53:10.884 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 18:53:10.923 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 18:53:10.941 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:53:10.942 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 18:53:10.942 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:11.916 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:53:11.917 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 18:53:11.917 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:12.160 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:53:12.160 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 18:53:12.161 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:12.421 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:53:12.421 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 18:53:12.422 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:12.662 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:53:12.662 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 18:53:12.662 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:12.922 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 18:53:12.923 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 18:53:12.923 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:13.272 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 18:53:13.706 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 18:53:13.710 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 18:53:13.714 [main] Hooks - 31_ Validate successful Login Status - PASSED
+[INFO ] 2025-02-26 18:53:13.715 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:18.717 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 19:06:18.730 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 19:06:18.731 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 19:06:18.759 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 19:06:21.135 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 19:06:21.136 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 19:06:21.170 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 19:06:21.171 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 19:06:21.216 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 19:06:21.239 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:06:21.240 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 19:06:21.240 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:22.601 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:06:22.602 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 19:06:22.602 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:22.906 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:06:22.907 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 19:06:22.907 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:23.178 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:06:23.178 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 19:06:23.179 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:24.035 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:06:24.036 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 19:06:24.036 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:24.308 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:06:24.309 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 19:06:24.309 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:24.697 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 19:06:25.284 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 19:06:25.288 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 19:06:25.294 [main] Hooks - 31_ Validate successful Login Status - PASSED
+[INFO ] 2025-02-26 19:06:25.294 [main] Hooks - ------------------------------------------------------------------------------------------------------
