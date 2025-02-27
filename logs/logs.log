@@ -1958,3 +1958,442 @@ java.net.SocketException: Connection reset
 [INFO ] 2025-02-26 19:06:25.288 [main] Hooks - ------------------------------------------------------------------------------------------------------
 [INFO ] 2025-02-26 19:06:25.294 [main] Hooks - 31_ Validate successful Login Status - PASSED
 [INFO ] 2025-02-26 19:06:25.294 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:36.663 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 19:46:36.677 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 19:46:36.678 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 19:46:36.701 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 19:46:39.153 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 19:46:39.153 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 19:46:39.187 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 19:46:39.188 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 19:46:39.228 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 19:46:39.244 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:46:39.245 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 19:46:39.245 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:40.659 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:46:40.660 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 19:46:40.661 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:40.962 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:46:40.962 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 19:46:40.963 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:41.252 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:46:41.253 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 19:46:41.253 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:41.638 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:46:41.639 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 19:46:41.639 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:42.009 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:46:42.010 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 19:46:42.010 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:42.339 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 19:46:42.903 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 19:46:42.907 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 19:46:42.911 [main] Hooks - 31_ Validate successful Login Status - PASSED
+[INFO ] 2025-02-26 19:46:42.912 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:12.869 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 19:59:12.882 [main] Hooks - Scenario Title: 32_ Validate unsuccessful Login
+[INFO ] 2025-02-26 19:59:12.882 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 19:59:12.904 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 19:59:15.406 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 19:59:15.406 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 19:59:15.435 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 19:59:15.436 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 19:59:15.476 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 19:59:15.494 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:15.495 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 19:59:15.495 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:17.181 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:17.182 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 19:59:17.182 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:17.473 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:17.473 [main] StepNameListener - Executing step: Verify the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 19:59:17.473 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:17.870 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:17.870 [main] StepNameListener - Executing step: Enter an invalid email or incorrect password
+[INFO ] 2025-02-26 19:59:17.871 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:18.305 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:18.305 [main] StepNameListener - Executing step: Click the "Login" button
+[INFO ] 2025-02-26 19:59:18.306 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:18.602 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:18.603 [main] StepNameListener - Executing step: Verify the error message appears in red below the login form
+[INFO ] 2025-02-26 19:59:18.603 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:18.848 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 19:59:18.849 [main] StepNameListener - Executing step: Confirm the email and password fields remain populated
+[INFO ] 2025-02-26 19:59:18.849 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:19.129 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 19:59:19.694 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 19:59:19.698 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 19:59:19.703 [main] Hooks - 32_ Validate unsuccessful Login Status - PASSED
+[INFO ] 2025-02-26 19:59:19.703 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:44.213 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 20:07:44.227 [main] Hooks - Scenario Title: 30_ validate successful registration
+[INFO ] 2025-02-26 20:07:44.227 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 20:07:44.254 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 20:07:46.984 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 20:07:46.985 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 20:07:47.018 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 20:07:47.019 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 20:07:47.060 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 20:07:47.077 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:47.078 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 20:07:47.079 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:48.137 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:48.138 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-26 20:07:48.138 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:48.401 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:48.402 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 20:07:48.402 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:48.647 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:48.647 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-26 20:07:48.647 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:48.906 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:48.907 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-26 20:07:48.907 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:49.204 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:49.205 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-26 20:07:49.206 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:49.529 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:49.529 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-26 20:07:49.529 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:49.772 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:49.773 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-26 20:07:49.773 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:50.015 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:50.015 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-26 20:07:50.016 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:50.248 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:50.248 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-26 20:07:50.248 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:50.481 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:50.482 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-26 20:07:50.482 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:50.713 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:07:50.714 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-26 20:07:50.714 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:50.979 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 20:07:51.436 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 20:07:51.441 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:07:51.450 [main] Hooks - 30_ validate successful registration Status - PASSED
+[INFO ] 2025-02-26 20:07:51.451 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:11:58.172 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 20:11:58.186 [main] Hooks - Scenario Title: 31_ Validate successful Login
+[INFO ] 2025-02-26 20:11:58.186 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 20:11:58.213 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 20:12:00.800 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 20:12:00.801 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 20:12:00.833 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 20:12:00.833 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 20:12:00.881 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 20:12:00.902 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:00.902 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 20:12:00.903 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:02.246 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:02.247 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 20:12:02.247 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:02.523 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:02.523 [main] StepNameListener - Executing step: Confirm the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 20:12:02.524 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:02.794 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:02.795 [main] StepNameListener - Executing step: Enter a valid email and password in the ""Returning Customer"" section
+[INFO ] 2025-02-26 20:12:02.796 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:03.081 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:03.082 [main] StepNameListener - Executing step: Click the ""Login"" button
+[INFO ] 2025-02-26 20:12:03.082 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:03.437 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:03.437 [main] StepNameListener - Executing step: Verify the account options available
+[INFO ] 2025-02-26 20:12:03.439 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:03.832 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 20:12:04.400 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 20:12:04.404 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:04.408 [main] Hooks - 31_ Validate successful Login Status - PASSED
+[INFO ] 2025-02-26 20:12:04.409 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:50.894 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 20:12:50.906 [main] Hooks - Scenario Title: 32_ Validate unsuccessful Login
+[INFO ] 2025-02-26 20:12:50.907 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 20:12:50.933 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 20:12:53.185 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 20:12:53.185 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 20:12:53.221 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 20:12:53.222 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 20:12:53.271 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 20:12:53.291 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:53.292 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 20:12:53.293 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:54.630 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:54.631 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 20:12:54.631 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:54.897 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:54.897 [main] StepNameListener - Executing step: Verify the ""Returning Customer"" section is present on the login page
+[INFO ] 2025-02-26 20:12:54.898 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:55.145 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:55.145 [main] StepNameListener - Executing step: Enter an invalid email or incorrect password
+[INFO ] 2025-02-26 20:12:55.146 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:55.433 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:55.434 [main] StepNameListener - Executing step: Click the "Login" button
+[INFO ] 2025-02-26 20:12:55.434 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:55.762 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:55.763 [main] StepNameListener - Executing step: Verify the error message appears in red below the login form
+[INFO ] 2025-02-26 20:12:55.763 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:56.165 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:12:56.166 [main] StepNameListener - Executing step: Confirm the email and password fields remain populated
+[INFO ] 2025-02-26 20:12:56.166 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:56.456 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 20:12:56.996 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 20:12:56.999 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:12:57.005 [main] Hooks - 32_ Validate unsuccessful Login Status - PASSED
+[INFO ] 2025-02-26 20:12:57.005 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:49.299 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 20:13:49.315 [main] Hooks - Scenario Title: 33_Validate Requesting a password reset link for returning customer
+[INFO ] 2025-02-26 20:13:49.316 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 20:13:49.340 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 20:13:51.653 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 20:13:51.653 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 20:13:51.691 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 20:13:51.691 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 20:13:51.743 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 20:13:51.761 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:51.762 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 20:13:51.762 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:53.226 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:53.226 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 20:13:53.227 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:53.496 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:53.496 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 20:13:53.497 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:53.733 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:53.734 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 20:13:53.734 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:53.989 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:53.989 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 20:13:53.990 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:54.291 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:54.292 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-26 20:13:54.292 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:54.582 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:54.582 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 20:13:54.582 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:54.828 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:54.828 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 20:13:54.828 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:55.059 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:13:55.059 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 20:13:55.059 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:55.331 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 20:13:55.862 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 20:13:55.867 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:13:55.873 [main] Hooks - 33_Validate Requesting a password reset link for returning customer Status - PASSED
+[INFO ] 2025-02-26 20:13:55.874 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:20.640 [main] Hooks - ================================================================
+[INFO ] 2025-02-26 20:18:20.653 [main] Hooks - Scenario Title: 33_Validate Requesting a password reset link for returning customer
+[INFO ] 2025-02-26 20:18:20.654 [main] Hooks - =================================================================
+[INFO ] 2025-02-26 20:18:20.682 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-26 20:18:23.007 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-26 20:18:23.007 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-26 20:18:23.042 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-26 20:18:23.043 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-26 20:18:23.098 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-26 20:18:23.116 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:23.117 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-26 20:18:23.117 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:24.428 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:24.429 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-26 20:18:24.429 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:24.693 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:24.694 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-26 20:18:24.694 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:24.954 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:24.955 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-26 20:18:24.955 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:25.209 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:25.210 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-26 20:18:25.210 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:25.516 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:25.517 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-26 20:18:25.518 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:25.838 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:25.839 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-26 20:18:25.842 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:26.248 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:26.248 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-26 20:18:26.249 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:26.868 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-26 20:18:26.868 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-26 20:18:26.869 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:27.142 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-26 20:18:27.740 [main] Hooks - Driver Closed
+[INFO ] 2025-02-26 20:18:27.744 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-26 20:18:27.748 [main] Hooks - 33_Validate Requesting a password reset link for returning customer Status - PASSED
+[INFO ] 2025-02-26 20:18:27.749 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:24.416 [main] Hooks - ================================================================
+[INFO ] 2025-02-27 11:30:24.432 [main] Hooks - Scenario Title: 30_ validate successful registration
+[INFO ] 2025-02-27 11:30:24.432 [main] Hooks - =================================================================
+[INFO ] 2025-02-27 11:30:24.457 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-27 11:30:27.204 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-27 11:30:27.205 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-27 11:30:27.273 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-27 11:30:27.274 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-27 11:30:27.379 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-27 11:30:27.398 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:27.398 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-27 11:30:27.399 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:28.509 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:28.510 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-27 11:30:28.510 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:29.699 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:29.700 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-27 11:30:29.700 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:29.962 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:29.962 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-27 11:30:29.962 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:30.318 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:30.322 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-27 11:30:30.324 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:30.815 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:30.816 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-27 11:30:30.817 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:31.444 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:31.445 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-27 11:30:31.445 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:31.902 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:31.902 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-27 11:30:31.903 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:32.145 [main] Hooks - ================================================================
+[INFO ] 2025-02-27 11:30:32.165 [main] Hooks - Scenario Title: 30_ validate successful registration
+[INFO ] 2025-02-27 11:30:32.166 [main] Hooks - =================================================================
+[INFO ] 2025-02-27 11:30:32.200 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-27 11:30:32.259 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:32.260 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-27 11:30:32.260 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:32.733 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:32.734 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-27 11:30:32.734 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:33.072 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:33.072 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-27 11:30:33.072 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:33.367 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:33.367 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-27 11:30:33.368 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:33.739 [main] Hooks - CLosing the Driver
+[INFO ] 2025-02-27 11:30:34.299 [main] Hooks - Driver Closed
+[INFO ] 2025-02-27 11:30:34.303 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:34.311 [main] Hooks - 30_ validate successful registration Status - PASSED
+[INFO ] 2025-02-27 11:30:34.312 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:35.050 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-27 11:30:35.051 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-27 11:30:35.088 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-27 11:30:35.089 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-27 11:30:35.147 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-27 11:30:35.176 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:35.182 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-27 11:30:35.182 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:36.436 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:36.437 [main] StepNameListener - Executing step: Click the link and its ccessible and clickable
+[INFO ] 2025-02-27 11:30:36.437 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:37.715 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:37.716 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-27 11:30:37.716 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:37.990 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:37.990 [main] StepNameListener - Executing step: Verify that the login page contains separate sections for New Customer and Existing Customer
+[INFO ] 2025-02-27 11:30:37.991 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:38.238 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:38.238 [main] StepNameListener - Executing step: Click the ""Continue"" button under the New Customer section
+[INFO ] 2025-02-27 11:30:38.239 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:38.473 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:38.474 [main] StepNameListener - Executing step: Verify that the user is redirected to the registration form
+[INFO ] 2025-02-27 11:30:38.474 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:38.726 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:38.727 [main] StepNameListener - Executing step: Confirm that the registration form includes fields for: First Name, Last Name, Email, Telephone, Password, Newsletter Subscription
+[INFO ] 2025-02-27 11:30:38.727 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:39.037 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:39.038 [main] StepNameListener - Executing step: Fill out the form with valid input in all fields
+[INFO ] 2025-02-27 11:30:39.039 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:39.382 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:39.382 [main] StepNameListener - Executing step: Agree to the privacy policy by checking the respective box
+[INFO ] 2025-02-27 11:30:39.382 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:39.758 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:39.759 [main] StepNameListener - Executing step: Click the ""Continue"" button to submit the form.
+[INFO ] 2025-02-27 11:30:39.760 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:40.187 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:40.188 [main] StepNameListener - Executing step: Verify that the account is successfully created and the user is redirected to the appropriate page.
+[INFO ] 2025-02-27 11:30:40.188 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:40.501 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 11:30:40.502 [main] StepNameListener - Executing step: Check that a confirmation email is sent to the provided email address
+[INFO ] 2025-02-27 11:30:40.502 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:40.840 [main] Hooks - CLosing the Driver
+[WARN ] 2025-02-27 11:30:41.075 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ] 2025-02-27 11:30:41.478 [main] Hooks - Driver Closed
+[INFO ] 2025-02-27 11:30:41.483 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-27 11:30:41.487 [main] Hooks - 30_ validate successful registration Status - PASSED
+[INFO ] 2025-02-27 11:30:41.487 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:08.028 [main] Hooks - ================================================================
+[INFO ] 2025-02-27 17:30:08.041 [main] Hooks - Scenario Title: 33_Validate Requesting a password reset link for returning customer
+[INFO ] 2025-02-27 17:30:08.042 [main] Hooks - =================================================================
+[INFO ] 2025-02-27 17:30:08.067 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-02-27 17:30:10.678 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/login
+[INFO ] 2025-02-27 17:30:10.679 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-02-27 17:30:10.749 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-02-27 17:30:10.749 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-02-27 17:30:10.838 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-02-27 17:30:10.854 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:10.855 [main] StepNameListener - Executing step: Navigate to the ""Your Store"" website
+[INFO ] 2025-02-27 17:30:10.855 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:11.770 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:11.770 [main] StepNameListener - Executing step: Click on the ""Login"" option from the homepage or header menu
+[INFO ] 2025-02-27 17:30:11.770 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:12.798 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:12.798 [main] StepNameListener - Executing step: Click on the ""Forgotten Password"" link under the ""Returning Customer"" section
+[INFO ] 2025-02-27 17:30:12.798 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.382 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:33.383 [main] StepNameListener - Executing step: Verify the password reset form contains an email input field
+[INFO ] 2025-02-27 17:30:33.384 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.391 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:33.392 [main] StepNameListener - Executing step: Enter a registered email address in the password reset form
+[INFO ] 2025-02-27 17:30:33.392 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.396 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:33.396 [main] StepNameListener - Executing step: Click on the ""Continue"" button
+[INFO ] 2025-02-27 17:30:33.397 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.405 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:33.406 [main] StepNameListener - Executing step: Check the registered email inbox.
+[INFO ] 2025-02-27 17:30:33.407 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.412 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:33.412 [main] StepNameListener - Executing step: Ensure the reset link redirects users to a secure password reset page
+[INFO ] 2025-02-27 17:30:33.413 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.417 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-02-27 17:30:33.418 [main] StepNameListener - Executing step: Validate the ability to set a new password successfully
+[INFO ] 2025-02-27 17:30:33.418 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:33.456 [main] Hooks - CLosing the Driver
+[WARN ] 2025-02-27 17:30:33.576 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ] 2025-02-27 17:30:33.992 [main] Hooks - Driver Closed
+[INFO ] 2025-02-27 17:30:33.995 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-02-27 17:30:34.000 [main] Hooks - 33_Validate Requesting a password reset link for returning customer Status - FAILED
+[INFO ] 2025-02-27 17:30:34.000 [main] Hooks - ------------------------------------------------------------------------------------------------------
