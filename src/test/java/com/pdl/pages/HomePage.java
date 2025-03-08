@@ -100,4 +100,11 @@ public class HomePage extends CommonMethods{
 	    
 	}
 
+	public static void verify_user_is_On_Homepage() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
 }
