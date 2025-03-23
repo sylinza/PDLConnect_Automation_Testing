@@ -129,7 +129,7 @@ public class Hooks extends CommonMethods {
 			Driver.getDriver().manage().deleteAllCookies();
 
 			logger.info("CLosing the Driver");
-			Driver.closeDriver();
+		//	Driver.closeDriver();
 
 			logger.info("Driver Closed");
 
