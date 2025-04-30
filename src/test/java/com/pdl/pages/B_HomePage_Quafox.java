@@ -19,7 +19,7 @@ public class B_HomePage_Quafox extends CommonMethods{
 		PageFactory.initElements(Driver.getDriver(), this);
 	}
 	//elements
-	@FindBy(xpath = "//a[contains(@class,'nav-link')]")
+	@FindBy(xpath = "//a[contains(@class,'nav-link')]");
 	
 	
 	

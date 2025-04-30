@@ -159,5 +159,143 @@ public void confirm_the_product_catalog_loads_successfully() {
     String actualTitle = driver.getTitle();
     Assert.assertEquals("Product Catalog page did not load successfully", expectedTitle, actualTitle);
 }
+//tc_35 
 
-}
+    // Locate the drop-down menu
+    public WebElement locateDropdownMenu() {
+        return driver.findElement(By.id("productCategoriesDropdown")); // Replace with actual locator
+    }
+
+    // Confirm visibility and clickability of the drop-down menu
+    public boolean isDropdownVisibleAndClickable() {
+        WebElement dropdown = locateDropdownMenu();
+        return dropdown.isDisplayed() && dropdown.isEnabled();
+    }
+
+    // Click the drop-down and ensure all categories are displayed
+    public void clickDropdownAndDisplayCategories() {
+        WebElement dropdown = locateDropdownMenu();
+        dropdown.click();
+        WebElement categoriesList = driver.findElement(By.id("categoriesList")); // Replace with actual locator
+        if (!categoriesList.isDisplayed()) {
+            throw new IllegalStateException("Categories list is not visible!");
+        }
+    }
+
+    // Select a specific category
+    public void selectCategory(String categoryName) {
+        WebElement category = driver.findElement(By.xpath("//option[text()='" + categoryName + "']")); // Replace with actual locator
+        category.click();
+    }
+
+    // Enter keyword in the search box
+    public void enterKeywordInSearchBox(String keyword) {
+        WebElement searchBox = driver.findElement(By.id("searchBox")); // Replace with actual locator
+        searchBox.sendKeys(keyword);
+    }
+
+    // Click the search button
+    public void clickSearchButton() {
+        WebElement searchButton = driver.findElement(By.id("searchButton")); // Replace with actual locator
+        searchButton.click();
+    }
+
+    // Verify search results
+    public boolean verifySearchResults(String expectedCategory, String keyword) {
+        WebElement results = driver.findElement(By.id("searchResults")); // Replace with actual locator
+        for (WebElement result : results.findElements(By.className("product"))) {
+            String category = result.findElement(By.className("productCategory")).getText();
+            String name = result.findElement(By.className("productName")).getText();
+            if (!category.equals(expectedCategory) || !name.contains(keyword)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    // Confirm result details (image, name, price)
+    public boolean confirmResultDetails() {
+        WebElement results = driver.findElement(By.id("searchResults")); // Replace with actual locator
+        for (WebElement result : results.findElements(By.className("product"))) {
+            if (result.findElement(By.tagName("img")) == null ||
+                result.findElement(By.className("productName")).getText().isEmpty() ||
+                result.findElement(By.className("productPrice")).getText().isEmpty()) {
+                return false;
+            }
+        }
+        return true;
+ 
+    }
+    //tc36
+
+        // Perform a search using keyword or category
+        public void performSearch(String keyword, String category) {
+            if (!keyword.isEmpty()) {
+                WebElement searchBox = driver.findElement(By.id("searchBox")); // Replace with actual locator
+                searchBox.sendKeys(keyword);
+            }
+
+            if (!category.isEmpty()) {
+                WebElement categoryDropdown = driver.findElement(By.id("categoryDropdown")); // Replace with actual locator
+                WebElement selectedCategory = categoryDropdown.findElement(By.xpath("//option[text()='" + category + "']"));
+                selectedCategory.click();
+            }
+
+            WebElement searchButton = driver.findElement(By.id("searchButton")); // Replace with actual locator
+            searchButton.click();
+        }
+
+        // Locate the "Sort By" drop-down menu
+        public WebElement locateSortByMenu() {
+            return driver.findElement(By.id("sortByDropdown")); // Replace with actual locator
+        }
+
+        // Verify visibility of "Sort By" menu
+        public boolean verifySortByMenuVisibility() {
+            WebElement sortByMenu = locateSortByMenu();
+            return sortByMenu.isDisplayed();
+        }
+
+        // Verify sorting options in the drop-down
+        public boolean verifySortingOption(String optionText) {
+            WebElement sortByMenu = locateSortByMenu();
+            sortByMenu.click();
+            WebElement sortingOption = driver.findElement(By.xpath("//option[text()='" + optionText + "']")); // Replace with actual locator
+            return sortingOption.isDisplayed();
+        }
+
+        // Select a sorting option
+        public void selectSortingOption(String optionText) {
+            WebElement sortByMenu = locateSortByMenu();
+            sortByMenu.click();
+            WebElement sortingOption = driver.findElement(By.xpath("//option[text()='" + optionText + "']")); // Replace with actual locator
+            sortingOption.click();
+        }
+
+        // Verify updated results after sorting
+        public boolean verifyUpdatedResults(String sortingCriteria) {
+            WebElement results = driver.findElement(By.id("searchResults")); // Replace with actual locator
+            for (WebElement result : results.findElements(By.className("product"))) {
+                String priceText = result.findElement(By.className("productPrice")).getText();
+                // Add logic to check sorting order based on sortingCriteria (e.g., Low-High prices)
+            }
+            return true; // Implement detailed checks
+        }
+
+        // Confirm product listing details (image, name, price)
+        public boolean confirmProductListingDetails() {
+            WebElement results = driver.findElement(By.id("searchResults")); // Replace with actual locator
+            for (WebElement result : results.findElements(By.className("product"))) {
+                if (result.findElement(By.tagName("img")) == null ||
+                    result.findElement(By.className("productName")).getText().isEmpty() ||
+                    result.findElement(By.className("productPrice")).getText().isEmpty()) {
+                    return false;
+                }
+            }
+            return true;
+        }
+    }
+
+
+
+

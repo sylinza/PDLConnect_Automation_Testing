@@ -2200,3 +2200,257 @@ java.net.SocketException: Connection reset
 [INFO ] 2025-03-08 16:06:39.033 [main] Hooks - ------------------------------------------------------------------------------------------------------
 [INFO ] 2025-03-08 16:06:39.035 [main] Hooks - 12 Validate Accessing My Shopping Cart Status - FAILED
 [INFO ] 2025-03-08 16:06:39.036 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-03-27 21:17:58.185 [main] Hooks - ================================================================
+[INFO ] 2025-03-27 21:17:58.189 [main] Hooks - Scenario Title: 12 Validate Accessing My Shopping Cart
+[INFO ] 2025-03-27 21:17:58.189 [main] Hooks - =================================================================
+[INFO ] 2025-03-27 21:17:58.195 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2025-03-27 21:18:00.311 [main] Hooks - *URL Lunched from hooks : https://tutorialsninja.com/demo/index.php?route=account/register
+[INFO ] 2025-03-27 21:18:00.312 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2025-03-27 21:18:00.326 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2025-03-27 21:18:00.326 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2025-03-27 21:18:00.343 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2025-03-27 21:18:00.350 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-03-27 21:18:00.350 [main] StepNameListener - Executing step: Log in to the account
+[INFO ] 2025-03-27 21:18:00.352 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.703 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-03-27 21:18:00.703 [main] StepNameListener - Executing step: Click on the "Shopping Cart" icon
+[INFO ] 2025-03-27 21:18:00.703 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.707 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-03-27 21:18:00.707 [main] StepNameListener - Executing step: Verify items are displayed in the cart
+[INFO ] 2025-03-27 21:18:00.707 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.708 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-03-27 21:18:00.709 [main] StepNameListener - Executing step: Ensure the cart icon reflects the correct item count
+[INFO ] 2025-03-27 21:18:00.709 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.711 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-03-27 21:18:00.711 [main] StepNameListener - Executing step: Check that the user can proceed to checkout from the cart page
+[INFO ] 2025-03-27 21:18:00.711 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.712 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.715 [main] Hooks - 12 Validate Accessing My Shopping Cart Status - FAILED
+[INFO ] 2025-03-27 21:18:00.715 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2025-03-27 21:18:00.730 [main] Hooks - CLosing the Driver
+[INFO ] 2025-03-27 21:18:00.730 [main] Hooks - Driver Closed
+[INFO ] 2025-04-26 22:59:07.311 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.334 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.318 [main] StepNameListener - Executing step: Navigate to the website’s home page.
+[WARN ] 2025-04-26 22:59:07.351 [main] StepNameListener - Executing step: Navigate to the website’s home page.
+[INFO ] 2025-04-26 22:59:07.352 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.349 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.378 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.380 [main] StepNameListener - Executing step: Locate the drop-down menu for product categories.
+[INFO ] 2025-04-26 22:59:07.380 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.388 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.389 [main] StepNameListener - Executing step: Confirm that the drop-down menu is visible and clickable
+[INFO ] 2025-04-26 22:59:07.389 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.394 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.394 [main] StepNameListener - Executing step: Click the drop-down menu and ensure that all available categories are displayed
+[INFO ] 2025-04-26 22:59:07.396 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.403 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.403 [main] StepNameListener - Executing step: Select a specific category
+[INFO ] 2025-04-26 22:59:07.403 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.405 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.405 [main] StepNameListener - Executing step: In addition to selecting the category, enter a keyword “laptop” in the search box.
+[INFO ] 2025-04-26 22:59:07.406 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.410 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.410 [main] StepNameListener - Executing step: Click the search button
+[INFO ] 2025-04-26 22:59:07.410 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.412 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.413 [main] StepNameListener - Executing step: Locate the drop-down menu for product categories.
+[INFO ] 2025-04-26 22:59:07.413 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.422 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.425 [main] StepNameListener - Executing step: Confirm that the drop-down menu is visible and clickable
+[INFO ] 2025-04-26 22:59:07.425 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.434 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.434 [main] StepNameListener - Executing step: Click the drop-down menu and ensure that all available categories are displayed
+[INFO ] 2025-04-26 22:59:07.435 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.439 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.440 [main] StepNameListener - Executing step: Select a specific category
+[INFO ] 2025-04-26 22:59:07.441 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.443 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.444 [main] StepNameListener - Executing step: In addition to selecting the category, enter a keyword “laptop” in the search box.
+[INFO ] 2025-04-26 22:59:07.444 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.448 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.449 [main] StepNameListener - Executing step: Click the search button
+[INFO ] 2025-04-26 22:59:07.449 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.462 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.462 [main] StepNameListener - Executing step: confirm that the search results display products that are both relevant to “laptop” and belong to the “Laptops & Notebooks category
+[INFO ] 2025-04-26 22:59:07.464 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.462 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.466 [main] StepNameListener - Executing step: confirm that the search results display products that are both relevant to “laptop” and belong to the “Laptops & Notebooks category
+[INFO ] 2025-04-26 22:59:07.468 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.468 [main] StepNameListener - Executing step: Confirm that each result shows an image, name, and price
+[INFO ] 2025-04-26 22:59:07.469 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.466 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.481 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.448 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.483 [main] StepNameListener - Executing step: Confirm that each result shows an image, name, and price
+[INFO ] 2025-04-26 22:59:07.488 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.492 [main] StepNameListener - Executing step: Navigate to the website’s home page.
+[INFO ] 2025-04-26 22:59:07.493 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.520 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.521 [main] StepNameListener - Executing step: Locate the drop-down menu for product categories.
+[INFO ] 2025-04-26 22:59:07.521 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.528 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.529 [main] StepNameListener - Executing step: Confirm that the drop-down menu is visible and clickable
+[INFO ] 2025-04-26 22:59:07.530 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.535 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.537 [main] StepNameListener - Executing step: Click the drop-down menu and ensure that all available categories are displayed
+[INFO ] 2025-04-26 22:59:07.537 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.540 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.540 [main] StepNameListener - Executing step: Select a specific category
+[INFO ] 2025-04-26 22:59:07.541 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.543 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.544 [main] StepNameListener - Executing step: In addition to selecting the category, enter a keyword “laptop” in the search box.
+[INFO ] 2025-04-26 22:59:07.544 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.546 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.546 [main] StepNameListener - Executing step: Click the search button
+[INFO ] 2025-04-26 22:59:07.547 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.560 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.560 [main] StepNameListener - Executing step: confirm that the search results display products that are both relevant to “laptop” and belong to the “Laptops & Notebooks category
+[INFO ] 2025-04-26 22:59:07.560 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 22:59:07.563 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 22:59:07.564 [main] StepNameListener - Executing step: Confirm that each result shows an image, name, and price
+[INFO ] 2025-04-26 22:59:07.565 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.298 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.303 [main] StepNameListener - Executing step: Navigate to the website’s home page.
+[INFO ] 2025-04-26 23:16:32.304 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.313 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.314 [main] StepNameListener - Executing step: Locate the drop-down menu for product categories.
+[INFO ] 2025-04-26 23:16:32.315 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.318 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.319 [main] StepNameListener - Executing step: Confirm that the drop-down menu is visible and clickable
+[INFO ] 2025-04-26 23:16:32.320 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.324 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.325 [main] StepNameListener - Executing step: Click the drop-down menu and ensure that all available categories are displayed
+[INFO ] 2025-04-26 23:16:32.326 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.330 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.330 [main] StepNameListener - Executing step: Select a specific category
+[INFO ] 2025-04-26 23:16:32.331 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.336 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.336 [main] StepNameListener - Executing step: In addition to selecting the category, enter a keyword “laptop” in the search box.
+[INFO ] 2025-04-26 23:16:32.337 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.342 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.342 [main] StepNameListener - Executing step: Click the search button
+[INFO ] 2025-04-26 23:16:32.343 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.353 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.354 [main] StepNameListener - Executing step: confirm that the search results display products that are both relevant to “laptop” and belong to the “Laptops & Notebooks category
+[INFO ] 2025-04-26 23:16:32.354 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:16:32.359 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:16:32.359 [main] StepNameListener - Executing step: Confirm that each result shows an image, name, and price
+[INFO ] 2025-04-26 23:16:32.359 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.664 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.673 [main] StepNameListener - Executing step: Navigate to the website’s home page.
+[INFO ] 2025-04-26 23:17:19.674 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.685 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.687 [main] StepNameListener - Executing step: Locate the drop-down menu for product categories.
+[INFO ] 2025-04-26 23:17:19.688 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.693 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.694 [main] StepNameListener - Executing step: Confirm that the drop-down menu is visible and clickable
+[INFO ] 2025-04-26 23:17:19.695 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.701 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.701 [main] StepNameListener - Executing step: Click the drop-down menu and ensure that all available categories are displayed
+[INFO ] 2025-04-26 23:17:19.703 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.710 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.710 [main] StepNameListener - Executing step: Select a specific category
+[INFO ] 2025-04-26 23:17:19.711 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.716 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.717 [main] StepNameListener - Executing step: In addition to selecting the category, enter a keyword “laptop” in the search box.
+[INFO ] 2025-04-26 23:17:19.718 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.723 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.724 [main] StepNameListener - Executing step: Click the search button
+[INFO ] 2025-04-26 23:17:19.724 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.733 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.733 [main] StepNameListener - Executing step: confirm that the search results display products that are both relevant to “laptop” and belong to the “Laptops & Notebooks category
+[INFO ] 2025-04-26 23:17:19.734 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:17:19.741 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:17:19.742 [main] StepNameListener - Executing step: Confirm that each result shows an image, name, and price
+[INFO ] 2025-04-26 23:17:19.743 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.243 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.248 [main] StepNameListener - Executing step: Perform a search using either keyword or category search to generate a results page.
+[INFO ] 2025-04-26 23:33:44.248 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.268 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.269 [main] StepNameListener - Executing step: Locate the “Sort By” drop-down menu on the search results page.
+[INFO ] 2025-04-26 23:33:44.269 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.273 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.274 [main] StepNameListener - Executing step: Verify that the “Sort By” menu is visible.
+[INFO ] 2025-04-26 23:33:44.274 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.277 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.282 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Name (A-Z)
+[INFO ] 2025-04-26 23:33:44.284 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.298 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.299 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Name (Z-A)
+[INFO ] 2025-04-26 23:33:44.300 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.317 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.318 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Price (Low-High)
+[INFO ] 2025-04-26 23:33:44.318 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.324 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.325 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Price (High-Low)
+[INFO ] 2025-04-26 23:33:44.325 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.338 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.338 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Rating (Highest)
+[INFO ] 2025-04-26 23:33:44.339 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.342 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.342 [main] StepNameListener - Executing step: Select a sorting option Price (Low-High) from the drop-down "Verify that the search results are updated accordingly.
+[INFO ] 2025-04-26 23:33:44.343 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:33:44.348 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:33:44.349 [main] StepNameListener - Executing step: Ensure that during and after sorting, each product listing still displays an image, name, and price.
+[INFO ] 2025-04-26 23:33:44.349 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.853 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.857 [main] StepNameListener - Executing step: Perform a search using either keyword or category search to generate a results page.
+[INFO ] 2025-04-26 23:37:54.858 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.866 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.867 [main] StepNameListener - Executing step: Locate the “Sort By” drop-down menu on the search results page.
+[INFO ] 2025-04-26 23:37:54.868 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.872 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.873 [main] StepNameListener - Executing step: Verify that the “Sort By” menu is visible.
+[INFO ] 2025-04-26 23:37:54.873 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.876 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.877 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Name (A-Z)
+[INFO ] 2025-04-26 23:37:54.878 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.882 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.883 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Name (Z-A)
+[INFO ] 2025-04-26 23:37:54.883 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.887 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.889 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Price (Low-High)
+[INFO ] 2025-04-26 23:37:54.889 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.893 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.893 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Price (High-Low)
+[INFO ] 2025-04-26 23:37:54.894 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.899 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.899 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Rating (Highest)
+[INFO ] 2025-04-26 23:37:54.900 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.902 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.903 [main] StepNameListener - Executing step: Select a sorting option Price (Low-High) from the drop-down "Verify that the search results are updated accordingly.
+[INFO ] 2025-04-26 23:37:54.903 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:37:54.905 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:37:54.905 [main] StepNameListener - Executing step: Ensure that during and after sorting, each product listing still displays an image, name, and price.
+[INFO ] 2025-04-26 23:37:54.905 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.215 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.222 [main] StepNameListener - Executing step: Perform a search using either keyword or category search to generate a results page.
+[INFO ] 2025-04-26 23:41:14.222 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.231 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.231 [main] StepNameListener - Executing step: Locate the “Sort By” drop-down menu on the search results page.
+[INFO ] 2025-04-26 23:41:14.232 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.238 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.238 [main] StepNameListener - Executing step: Verify that the “Sort By” menu is visible.
+[INFO ] 2025-04-26 23:41:14.239 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.242 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.243 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Name (A-Z)
+[INFO ] 2025-04-26 23:41:14.244 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.254 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.255 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Name (Z-A)
+[INFO ] 2025-04-26 23:41:14.257 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.265 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.265 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Price (Low-High)
+[INFO ] 2025-04-26 23:41:14.265 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.268 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.268 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Price (High-Low)
+[INFO ] 2025-04-26 23:41:14.269 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.275 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.275 [main] StepNameListener - Executing step: Click the drop-down and check for available sorting options Rating (Highest)
+[INFO ] 2025-04-26 23:41:14.275 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.277 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.277 [main] StepNameListener - Executing step: Select a sorting option Price (Low-High) from the drop-down "Verify that the search results are updated accordingly.
+[INFO ] 2025-04-26 23:41:14.277 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2025-04-26 23:41:14.279 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2025-04-26 23:41:14.279 [main] StepNameListener - Executing step: Ensure that during and after sorting, each product listing still displays an image, name, and price.
+[INFO ] 2025-04-26 23:41:14.279 [main] StepNameListener - ---------------------------------------------------------------------
